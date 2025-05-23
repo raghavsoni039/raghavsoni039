@@ -34,14 +34,6 @@
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsoni039&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
