@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Engineer | Tech Explorer | Logic Lover</h3>
 
 - 🎓 B.Tech Artificial Intelligence student at Arya College  
-- 🌱 Currently learning:  Machine Learning ,Data Structures, and Agentic AI
+- 🌱 Currently learning:  Machine Learning, Data Structures, and Agentic AI  
 - 💬 Ask me about: C, C++, Python, Logic Building  
 - 🤝 Looking to connect and collaborate on AI, algorithms, and core programming challenges  
 - 📫 Reach me at: **raghavsoni039@gmail.com**  
@@ -23,6 +23,9 @@
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" alt="Streamlit" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Red_Hat_logo.svg/1200px-Red_Hat_logo.svg.png" width="40" alt="Red Hat Linux" /></a>
+  <a href="https://www.virtualbox.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Virtualbox_logo.png" width="40" alt="VirtualBox" /></a>
 </p>
 
 ---
@@ -31,7 +34,7 @@
 
 <p align="left">
   <a href="mailto:raghavsoni039@gmail.com" target="_blank" title="Email Me">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/raghav-soni-715a8b27a/" target="_blank" title="LinkedIn Profile">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
