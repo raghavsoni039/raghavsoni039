@@ -24,7 +24,7 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Red_Hat_logo.svg/1200px-Red_Hat_logo.svg.png" width="40" alt="Red Hat Linux" /></a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Red_Hat_logo.svg/1200px-Red_Hat_logo.svg.png](https://www.reddit.com/r/redhat/comments/18t4373/is_red_hat_enterprise_linux_worth_the_cost_for/)" width="40" alt="Red Hat Linux" /></a>
   <a href="https://www.virtualbox.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Virtualbox_logo.png" width="40" alt="VirtualBox" /></a>
 </p>
 
