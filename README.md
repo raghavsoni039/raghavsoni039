@@ -24,8 +24,8 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Red_Hat_logo.svg/1200px-Red_Hat_logo.svg.png](https://www.reddit.com/r/redhat/comments/18t4373/is_red_hat_enterprise_linux_worth_the_cost_for/)](https://imgs.search.brave.com/ixqnT6rytEzWyUB7Ys_HUORGR6MH3ewt7jFT1Leuc80/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmVkaGF0LmNvbS9y/aGRjL21hbmFnZWQt/ZmlsZXMvQ29ubmVj/dGVkQ2FtcGFpZ25P/cGVuR3JhcGglNDAx/eC5wbmc)" width="40" alt="Red Hat Linux" /></a>
-  <a href="https://www.virtualbox.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Virtualbox_logo.png" width="40" alt="VirtualBox" /></a>
+  <a href="https://www.redhat.com/en" target="_blank"><img src="https://imgs.search.brave.com/ixqnT6rytEzWyUB7Ys_HUORGR6MH3ewt7jFT1Leuc80/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmVkaGF0LmNvbS9y/aGRjL21hbmFnZWQt/ZmlsZXMvQ29ubmVj/dGVkQ2FtcGFpZ25P/cGVuR3JhcGglNDAx/eC5wbmc" width="40" alt="Red Hat Linux" /></a>
+  <a href="https://www.virtualbox.org/" target="_blank"><img src="https://imgs.search.brave.com/F9nVfsd_juWgB9EeU0pIptXRR3rw42g5vBf84Mnx0b0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZmL1Zp/cnR1YWxCb3hfMjAy/NF9Mb2dvLnN2Zy8y/NTBweC1WaXJ0dWFs/Qm94XzIwMjRfTG9n/by5zdmcucG5n" width="40" alt="VirtualBox" /></a>
 </p>
 
 ---
