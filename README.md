@@ -22,6 +22,7 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" /></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" alt="Streamlit" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://imgs.search.brave.com/Rn9zOzjpapi9JtVCERGNnxQZIxudAMuD3tPWTLmVEyU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9udW1m/b2N1cy5vcmcvd3At/Y29udGVudC91cGxv/YWRzLzIwMTcvMTAv/TnVtcHlwbmcucG5n" width="40" alt="Numpy"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
   <a href="https://www.redhat.com/en" target="_blank"><img src="https://imgs.search.brave.com/ixqnT6rytEzWyUB7Ys_HUORGR6MH3ewt7jFT1Leuc80/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmVkaGF0LmNvbS9y/aGRjL21hbmFnZWQt/ZmlsZXMvQ29ubmVj/dGVkQ2FtcGFpZ25P/cGVuR3JhcGglNDAx/eC5wbmc" width="40" alt="Red Hat Linux" /></a>
