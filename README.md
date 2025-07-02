@@ -18,25 +18,15 @@
   <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
-
-  <!-- Libraries & Frameworks -->
   <a href="https://numpy.org/" target="_blank"><img src="https://imgs.search.brave.com/Rn9zOzjpapi9JtVCERGNnxQZIxudAMuD3tPWTLmVEyU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9udW1m/b2N1cy5vcmcvd3At/Y29udGVudC91cGxv/YWRzLzIwMTcvMTAv/TnVtcHlwbmcucG5n" width="40" height="40" alt="Numpy"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="80" height="40" alt="Streamlit" /></a>
-
-  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></a>
-
-  <!-- Web -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a>
-
-  <!-- DevOps Tools -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" width="40" height="40" alt="Jenkins"/> </a>
-
-  <!-- OS & Virtualization -->
   <a href="https://www.redhat.com/en" target="_blank"><img src="https://imgs.search.brave.com/ixqnT6rytEzWyUB7Ys_HUORGR6MH3ewt7jFT1Leuc80/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmVkaGF0LmNvbS9y/aGRjL21hbmFnZWQt/ZmlsZXMvQ29ubmVj/dGVkQ2FtcGFpZ25P/cGVuR3JhcGglNDAx/eC5wbmc" width="40" height="40" alt="Red Hat Linux" /></a>
   <a href="https://www.virtualbox.org/" target="_blank"><img src="https://imgs.search.brave.com/F9nVfsd_juWgB9EeU0pIptXRR3rw42g5vBf84Mnx0b0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZmL1Zp/cnR1YWxCb3hfMjAy/NF9Mb2dvLnN2Zy8y/NTBweC1WaXJ0dWFs/Qm94XzIwMjRfTG9n/by5zdmcucG5n" width="40" height="40" alt="VirtualBox" /></a>
 </p>
